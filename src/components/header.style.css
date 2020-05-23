@@ -1,0 +1,23 @@
+.appHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  height: 40px;
+  padding: 20px;
+}
+/* 
+.white {
+  background-color:;
+  color: white;
+} */
+
+.black {
+  background-color: black;
+  color: white;
+}
+.companyLogo {
+  height: 40%;
+  width: 40%;
+}
